@@ -31,7 +31,7 @@ My name is Sarah Vitelli, and I am a second-year student in the MLS program at I
 
 ## About the Metadata
 
-[Here]((https://docs.google.com/document/d/1UodEMe0gBA8Uf0RT7PhEUqp4GUYyFw2_pIrZPypBSR8/edit?usp=sharing)) is a link to the metadata application profile (MAP) I created to build this digital library. I used two controlled vocabularies for the “subject” metadata field, the [Proposed International Standard Nomenclature for Fields of Science and Technology (SKOS)](https://skos.um.es/unesco6/#:~:text=The%20Proposed%20international%20standard%20nomenclature,by%20the%20Scientific%20Advisory%20Committee.) for science subjects, and [Getty’s Art & Architecture Thesaurus (AAT)](https://www.getty.edu/research/tools/vocabularies/aat/) for art subjects.
+[Here]((https://go.iu.edu/4Rgj)) is a link to the metadata application profile (MAP) I created to build this digital library. I used two controlled vocabularies for the “subject” metadata field, the [Proposed International Standard Nomenclature for Fields of Science and Technology (SKOS)](https://skos.um.es/unesco6/#:~:text=The%20Proposed%20international%20standard%20nomenclature,by%20the%20Scientific%20Advisory%20Committee.) for science subjects, and [Getty’s Art & Architecture Thesaurus (AAT)](https://www.getty.edu/research/tools/vocabularies/aat/) for art subjects.
 
 ## Technology Information
 
