@@ -36,3 +36,7 @@ The metadata application profile (MAP) I used to build this digital library can 
 ## Technology Information
 
 I used an overhead scanner located in Wells Library at Indiana University to digitize these materials. This was beneficial since some of the materials could potentially be damaged by using a typical flatbed scanner. 
+
+## Rights Information
+
+All rights to each of the Science Artist Books belong to the creator of the book.
