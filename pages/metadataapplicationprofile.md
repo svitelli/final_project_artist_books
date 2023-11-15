@@ -5,6 +5,9 @@ permalink: /metadataapplicationprofile.html
 ---
 ## Metadata Application Profile (MAP)
 
+### What is this?
+A metadata application profile (MAP) is documentation of how metadata for a collection of items is recorded and structured. Below is the MAP I created for the Science Artist Books collection, in which I attempted to capture the most useful information about the each item in the most logical and readable way possible.
+
 1. ObjectID
   - Cardinality: 1 
   - Obligation: required
