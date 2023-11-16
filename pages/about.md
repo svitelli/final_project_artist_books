@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/image.html objectid="best_laid_plans" %}
 
-{% include feature/nav-menu.html sections="About the Collection;Background;Contributors;About the Metadata;Technology Information" %}
+{% include feature/nav-menu.html sections="About the Collection;Background;Contributors;About the Metadata;Technology Information;Rights Information;Acknowledgments" %}
 
 ## About the Collection
 
@@ -27,16 +27,22 @@ This project will complement an exhibit created by the Smithsonian Institution L
 
 ## Contributors
 
-My name is Sarah Vitelli, and I am a second-year student in the MLS program at Indiana University. I would like to thank the librarians at the Sciences Library for their help with the Artist Books, specifically Jen Simms and Bob Noel. I would also like to thank Professor John Walsh and Alex Wingate for their instruction and assistance this semester. 
+My name is Sarah Vitelli, and I created this site. I am a second-year student in the MLS program at Indiana University. 
 
 ## About the Metadata
 
-The metadata application profile (MAP) I used to build this digital library can be found on the Metadata Application Profile page. I used two controlled vocabularies for the “subject” metadata field, the [Proposed International Standard Nomenclature for Fields of Science and Technology (SKOS)](https://skos.um.es/unesco6/#:~:text=The%20Proposed%20international%20standard%20nomenclature,by%20the%20Scientific%20Advisory%20Committee.) for science subjects, and [Getty’s Art & Architecture Thesaurus (AAT)](https://www.getty.edu/research/tools/vocabularies/aat/) for art subjects.
+The metadata application profile (MAP) I used to build this digital library can be found on the Metadata Application Profile page. I used two controlled vocabularies for the “subject” metadata field, the [Proposed International Standard Nomenclature for Fields of Science and Technology (SKOS)](https://skos.um.es/unesco6/#:~:text=The%20Proposed%20international%20standard%20nomenclature,by%20the%20Scientific%20Advisory%20Committee.) for science subjects, and [Getty’s Art & Architecture Thesaurus (AAT)](https://www.getty.edu/research/tools/vocabularies/aat/) for art subjects. I used the metadata elements required by CollectionBuilder-GH, which were: ObjectID; FileName; Format; and Title. I also used the optional fields: Creator; ISBN; Date; Subject; PlaceofPublication and Description. I created my own custom fields including: Publisher; Size; and Materials. 
 
 ## Technology Information
 
-I used an overhead scanner located in Wells Library at Indiana University to digitize these materials. This was beneficial since some of the materials could potentially be damaged by using a typical flatbed scanner. 
+I used an overhead scanner located in Wells Library at Indiana University to digitize these materials. This was beneficial since some of the materials could potentially be damaged by using a typical flatbed scanner. I utilized GitHub and CollectionBuilder to build my site. 
 
 ## Rights Information
 
 All rights to each of the Science Artist Books belong to the creator of the book.
+
+## Acknowledgments
+
+I would like to thank the librarians at the Sciences Library for their help with the Science Artist Books, specifically Jen Simms and Bob Noel. I would like to thank Professor John Walsh and Alex Wingate for their instruction and assistance this semester.
+
+
