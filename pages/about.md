@@ -43,7 +43,7 @@ I used an overhead scanner located in Wells Library at Indiana University to dig
 
 ## Rights Information
 
-All rights to each of the Science Artist Books belong to the creator of the book.
+All rights to each of the Science Artist Books belong to the creator of the book. This site is for educational purposes only.
 
 ## Acknowledgments
 
